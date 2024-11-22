@@ -1,6 +1,6 @@
 # Remotion Lambda Ruby SDK
-Do not open issues or pull requests here.
-The actual source code is located in the [Remotion repository](https://remotion.dev/github).
+Do not open issues or pull requests here.  
+The actual source code is located in the [Remotion repository](https://remotion.dev/github).  
 This repository is automatically updated when a new version of Remotion is released.
 
 ## Installation
